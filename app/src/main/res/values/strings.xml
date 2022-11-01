@@ -1,0 +1,12 @@
+<resources>
+   <string name="app_name">Вгадай число!</string>
+    <string name="behind">Менше!</string>
+    <string name="ahead">Більше!</string>
+    <string name="hit">Вгадано!</string>
+    <string name="input_value">Введіть число</string>
+    <string name="play_more">Зіграй ще!</string>
+    <string name="ahead_ten">"Число бідьше 10"</string>
+    <string name="try_to_guess">Спробуйте вгадати число (1&#8211; 10)</string>
+    <string name="error">Неправильний ввід!</string>
+    <string name="out">Вийти з додатку</string>
+</resources>
